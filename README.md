@@ -1,11 +1,66 @@
-# Delphi-PraButtonStyle
+<!-- README ini dihasilkan otomatis oleh workflow .github/workflows/generate-readme.yml -->
+<!-- Jangan edit manual; perubahan akan ditim pada run berikutnya. -->
 
-> **Created by Antono**
+<h1 align="center">Project 👋</h1>
 
-![sample 1](demo/demo1/demo1.gif)
+<p align="center">
+  <strong></strong>
+</p>
 
-![sample 2](demo/demo2/Gravar_2020_04_11_23_43_41_231.gif)
+<p align="center">
+  <a href="https://github.com/antono4/Delphi-PraButtonStyle"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/Delphi-PraButtonStyle-blue?logo=github"></a>
+  <a href="https://antono4.github.io/Delphi-PraButtonStyle/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
+  <img alt="Files" src="https://img.shields.io/badge/Files-40-informational">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-13 13:20:25 WIB-lightgrey">
+</p>
 
-**Installation:**
-  Add the folder source directory to the Library path in Delphi inside the Tools->Options menu. 
-The Options window will show up and there you have to click on Environment Options->Delphi Options->Library, select the right platform (32 or 64 bits) and add directory in Library path.
+---
+
+## 📖 Tentang
+
+Repository **`Delphi-PraButtonStyle`** adalah situs web pribadi / portofolio yang diterbitkan melalui **GitHub Pages**. Situs utama berada di [`https://antono4.github.io/Delphi-PraButtonStyle/`](https://antono4.github.io/Delphi-PraButtonStyle/).
+
+## 🗂️ Struktur Proyek
+
+```
+Delphi-PraButtonStyle/
+├── index.html          # Halaman utama (landing / portofolio)
+├── assets/             # Aset statis (css, js, img, vendor)
+├── forms/               # Form handler (PHP)
+```
+
+## 🛠️ Teknologi
+
+Berdasarkan isi repository, proyek ini menggunakan:
+
+- `HTML`
+- `CSS`
+- `JavaScript`
+
+> Total **40 file** terdeteksi di repository.
+
+## 🚀 Menjalankan Secara Lokal
+
+Karena ini situs statis (HTML/CSS/JS/PHP), cukup buka `index.html` di browser, atau jalankan server lokal:
+
+```bash
+# Tanpa dependency
+python3 -m http.server 8000
+# lalu buka http://localhost:8000
+
+# atau dengan PHP (untuk form handler di forms/)
+php -S localhost:8000
+```
+
+## 📬 Kontak
+
+- GitHub: [antono4](https://github.com/antono4)
+- Situs: [https://antono4.github.io/Delphi-PraButtonStyle/](https://antono4.github.io/Delphi-PraButtonStyle/)
+
+## 📄 Lisensi
+
+Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
+
+---
+
+<sub>README ini di-generate otomatis pada **2026-08-13 13:20:25 WIB** oleh GitHub Actions .</sub>
