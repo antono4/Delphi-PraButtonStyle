@@ -1,1 +1,26 @@
-Last updated: 2026-09-15 17:23:07 WIB
+# Delphi-PraButtonStyle
+
+
+
+## 📋 Overview
+
+This repository contains **44 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-15 18:34:40 WIB*
